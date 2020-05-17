@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\bin\Debug\DTIS_YETKİLİ_EKLE.exe.config
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\bin\Debug\DTIS_YETKİLİ_EKLE.exe
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\bin\Debug\DTIS_YETKİLİ_EKLE.pdb
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\obj\Debug\DTIS_YETKİLİ_EKLE.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\obj\Debug\DTIS_YETKİLİ_EKLE.Form1.resources
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\obj\Debug\DTIS_YETKİLİ_EKLE.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\obj\Debug\DTIS_YETKİLİ_EKLE.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\obj\Debug\DTIS_YETKİLİ_EKLE.exe
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\obj\Debug\DTIS_YETKİLİ_EKLE.pdb
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\bin\Debug\DTISDB.mdf
+C:\Users\ASUS\source\repos\DTIS_YETKİLİ_EKLE\bin\Debug\DTISDB_log.ldf
